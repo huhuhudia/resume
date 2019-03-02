@@ -3,6 +3,8 @@
 - 徐文韬/男/1997-10-08
 - 本科: 湖北大学 计算机科学与技术 2016-2020
 - Github: https://github.com/huhuhudia
+- 电话：13343423220
+- 邮箱：yellowbluewhite@foxmail.com
 
 
 
